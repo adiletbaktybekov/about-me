@@ -1,0 +1,55 @@
+#header {
+  //position: fixed;
+  //width: 1550px;
+  width: 100%;
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Source+Code+Pro:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Ropa+Sans&family=Source+Code+Pro:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Ropa+Sans:ital@1&family=Source+Code+Pro:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Gluten:wght@500&display=swap');
+  a {
+    text-decoration: none;
+  }
+
+  background: black;
+  height: 80px;
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &-logo {
+      font-family: 'Gluten', cursive;
+      font-style: italic;
+      font-size: 34px;
+      color: #FFFFFF;
+      font-weight: bolder;
+    }
+    &-nav {
+      &-item {
+        margin: 0 30px;
+        font-size: 22px;
+        color: #FFFFFF;
+        font-family: 'Ropa Sans', sans-serif;
+        font-style: italic;
+        transition: .4s;
+      }
+
+      &-item:hover {
+        color: red;
+      }
+    }
+
+    &-moon {
+      width: 45px;
+      background: #FFFFFF;
+      border-radius: 10px;
+      height: 40px;
+      border: 2px solid white;
+      transition: .4s;
+      margin-left: 90px;
+      &-icon {
+        width: 25px;
+        height: 20px;
+      }
+    }
+  }
+}

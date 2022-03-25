@@ -1,0 +1,193 @@
+#home {
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Source+Code+Pro:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Ropa+Sans&family=Source+Code+Pro:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Ropa+Sans:ital@1&family=Source+Code+Pro:wght@300&display=swap');
+  background: url("../../../assets/img/image 1.png") no-repeat center/cover;
+  width: 100%;
+  height: 100%;
+  .home {
+    padding-top: 100px;
+    &-about {
+      &-content {
+        width: 1050px;
+        height: 500px;
+        background: black;
+        opacity: 0.8;
+        z-index: 100;
+        border-radius: 25px;
+
+        &-icons {
+          padding-left: 150px;
+        }
+
+        &-skills {
+          &-name {
+            border-radius: 20px;
+            background: white;
+            width: 200px;
+            height: 200px;
+
+            &-asset {
+              padding-top: 20px;
+              padding-left: 40px;
+
+              &-img {
+                width: 100px;
+              }
+
+              &-desc {
+                //margin-left: 5px;
+                margin-top: 5px;
+                font-weight: bolder;
+                font-family: 'Ropa Sans', sans-serif;
+                font-size: 18px;
+              }
+            }
+          }
+        }
+
+        &-img {
+          width: 250px;
+          height: 250px;
+          margin-left: 80px;
+        }
+
+        &-img3 {
+          width: 100px;
+          height: 100px;
+          margin-left: 80px;
+        }
+
+        &-img4 {
+          width: 50px;
+          height: 50px;
+          margin: 0 20px;
+        }
+
+        &-img5 {
+          width: 50px;
+          height: 50px;
+          margin: 0 20px;
+        }
+
+        &-title {
+          color: #FFFFFF;
+          margin-left: -100px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-style: italic;
+          font-size: 40px;
+        }
+
+        &-title3 {
+          color: #FFFFFF;
+          margin-left: 300px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-style: italic;
+          font-size: 40px;
+        }
+
+
+        &-title2 {
+          color: #FFFFFF;
+          margin-left: 200px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-style: italic;
+          font-size: 40px;
+        }
+
+        &-desc {
+          color: #FFFFFF;
+          margin-left: -70px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-style: italic;
+          font-weight: 400;
+          font-size: 24px;
+          line-height: 26px;
+        }
+
+        &-desc2 {
+          padding-top: 40px;
+          color: red;
+          margin-left: -100px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-style: italic;
+          font-size: 30px;
+        }
+
+        &-desc5 {
+          margin-top: 15px;
+          color: red;
+          margin-left: 15px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-style: italic;
+          font-size: 30px;
+        }
+
+        &-desc7 {
+          margin-left: 340px;
+          margin-top: 30px;
+          color: #FFFFFF;
+          font-family: 'Ropa Sans', sans-serif;
+          font-size: 16px;
+        }
+
+        &-desc6 {
+          margin-top: -55px;
+          color: red;
+          margin-left: -250px;
+          font-family: 'Ropa Sans', sans-serif;
+          font-size: 20px;
+        }
+      }
+    }
+
+    &-btn {
+      width: 150px;
+      height: 50px;
+      margin-left: 450px;
+      //margin-top: 50px;
+      background: white;
+
+      color: black;
+      font-weight: bolder;
+      transition: .5s;
+      border-radius: 15px;
+      border: red solid 1px;
+    }
+
+    &-btn:hover {
+      background: red;
+    }
+
+    &-btn3 {
+      width: 150px;
+      height: 50px;
+      margin-left: 450px;
+      background: white;
+      color: black;
+      font-weight: bolder;
+      transition: .5s;
+      border-radius: 15px;
+      border: red solid 1px;
+    }
+
+    &-btn3:hover {
+      background: red;
+    }
+
+    &-btn2 {
+      width: 150px;
+      height: 50px;
+      margin-left: 450px;
+      background: white;
+      color: black;
+      font-weight: bolder;
+      border-radius: 15px;
+      border: red solid 1px;
+    }
+
+    &-btn2:hover {
+      background: red;
+    }
+  }
+}

@@ -1,0 +1,801 @@
+@media (max-width: 1024px) {
+  #home .home-about-content {
+    width: 750px;
+    height: 400px;
+  }
+  #home .home-about-content-img {
+    margin-top: -60px;
+    width: 150px;
+  }
+  #home .home-about-content-title {
+    font-size: 35px;
+  }
+  #home .home-about-content-desc {
+    font-size: 20px;
+  }
+  #home .home-about-content-desc2 {
+    font-size: 25px;
+  }
+  #home .home-btn {
+    width: 125px;
+    height: 40px;
+    margin-left: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  #home .home-about-content-title2 {
+    margin-left: 180px;
+    font-size: 30px;
+  }
+  #home .home-about-content-skills-name {
+    border-radius: 20px;
+    padding-top: -20px;
+    background: white;
+    width: 145px;
+    height: 145px;
+  }
+  #home .home-about-content-skills-name-asset {
+    padding-top: 10px;
+    padding-left: 30px;;
+  }
+  #home .home-about-content-skills-name-asset-img {
+    width: 72px;
+  }
+  #home .home-about-content-skills-name-asset-desc {
+    font-weight: bolder;
+    font-family: "Ropa Sans", sans-serif;
+    font-size: 13px;
+  }
+  #home .home-btn2 {
+    width: 125px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 300px;
+    border-radius: 10px;
+  }
+  #home .home-about-content-title3 {
+    margin-left: 180px;
+    font-size: 30px;
+  }
+  #home .home-about-content-desc5 {
+    font-size: 20px;
+  }
+  #home .home-about-content-img4 {
+    width: 40px;
+    height: 50px;
+  }
+  #home .home-about-content-img5 {
+    width: 40px;
+    height: 50px;
+  }
+  #home .home-about-content-icons {
+    padding-left: 70px;
+  }
+  #home .home-about-content-desc7 {
+    margin-left: 220px;
+    font-size: 12px;
+    margin-top: -5px;
+  }
+  #home .home-btn3 {
+    width: 125px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 290px;
+    border-radius: 10px;
+  }
+
+  #about {
+    height: 900px;
+  }
+  #about .about-name-img {
+    width: 280px;
+    height: 280px;
+  }
+  #about .about-name-img-1s {
+    margin-left: 11px;
+    width: 260px;
+  }
+
+  #about .about-name-title {
+    font-size: 30px;
+  }
+  #about .about-name-desc {
+    font-size: 17px;
+    margin-top: -15px;
+  }
+  #about .about-post-ul1 {
+    font-size: 25px;
+  }
+  #about .about-post-li {
+    font-size: 18px;
+  }
+  #about .about-post-ul2 {
+    margin-left: 50px;
+    font-size: 25px;
+  }
+  #about .about-post-li2 {
+    width: 335px;
+    font-size: 18px;
+  }
+  #about .about-post-ul3 {
+    margin-top: -30px;
+    font-size: 25px;
+    margin-left: -20px;
+  }
+  #about .about-post-li3 {
+    font-size: 18px;
+  }
+  .skills .skill-icon {
+    width: 70px;
+    height: 70px;
+  }
+
+  .skills .skill-title {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  #header .header-logo {
+    font-size: 30px;
+  }
+  #header .header-nav-item {
+    font-size: 15px;
+    margin-top: 10px;
+  }
+  #home {
+    height: 500px;
+  }
+  #home .home-about-content {
+    width: 550px;
+    height: 350px;
+  }
+  #home .home-about-content-img {
+    width: 110px;
+    margin-top: -100px;
+  }
+  #home .home-about-content-title {
+    font-size: 25px;
+    //margin-top: -30px;
+    margin-left: -70px;
+  }
+  #home .home-about-content-desc {
+    font-size: 15px;
+    //margin-top: ;
+  }
+  #home .home-about-content-desc2 {
+    font-size: 18px;
+    //margin-top: -50px;
+    margin-left: -100px;
+    padding-top: -50px;
+  }
+
+  #home .home-btn {
+    width: 80px;
+    height: 30px;
+    margin-left: 230px;
+    //margin-top: 50px;
+    //padding-top: -40px;
+    border-radius: 5px;
+    font-size: 10px;
+
+  }
+
+  #home .home-about-content-title2 {
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 80px;
+  }
+  #home .home-about-content-skills-name {
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+  }
+  #home .home-about-content-skills-name-asset {
+    padding-top: 10px;
+    padding-left: 25px;
+  }
+  #home .home-about-content-skills-name-asset-img {
+    width: 45px;
+  }
+  #home .home-about-content-skills-name-asset-desc {
+    font-weight: bolder;
+    font-family: "Ropa Sans", sans-serif;
+    font-size: 9px;
+
+  }
+  #home .home-about-content-title3 {
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 110px;
+  }
+  #home .home-about-content-desc5 {
+    font-size: 15px;
+    //margin-top: -5px;
+    margin-left: 10px;
+    margin-top: -10px;
+  }
+  #home .home-about-content-img4 {
+    width: 25px;
+    //padding-top: -22px;??
+    margin: 0 10px;
+  }
+  #home .home-about-content-img5 {
+    width: 25px;
+    margin: 0 10px;
+  }
+  #home .home-about-content-icons {
+    padding-top: -20px;
+  }
+  #home .home-about-content-desc7 {
+    margin-left: 175px;
+    font-size: 9px;
+    //margin-top:40px;
+  }
+
+
+  #about {
+    height: 700px;
+  }
+  #about .about-name-img {
+    width: 250px;
+    height: 250px;
+  }
+  #about .about-name-img-1s {
+    //margin-left: 11px;
+    width: 230px;
+  }
+
+  #about .about-name-title {
+    font-size: 23px;
+    //margin-top: -10px;
+    padding-left: 25px;
+  }
+  #about .about-name-desc {
+    font-size: 12px;
+    margin-top: -20px;
+    padding-left: 27px;
+  }
+  #about .about-post-ul1 {
+    font-size: 20px;
+    padding-left: 0;
+  }
+  #about .about-post-li {
+    font-size: 15px;
+  }
+  #about .about-post-ul2 {
+    font-size: 20px;
+    margin-left: -10px;
+  }
+  #about .about-post-li2 {
+    font-size: 15px;
+    width: 320px;
+  }
+  #about .about-post-ul3 {
+    margin-left: 30px;
+    font-size: 20px;
+    padding-left: 0;
+  }
+  #about .about-post-li3 {
+    font-size: 15px;
+  }
+  #about .about-btns {
+    padding-top: -75px;
+    margin-top: -60px;
+  }
+  .skills .skill-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .skills .skill-title {
+    font-size: 13px;
+  }
+
+}
+
+@media (max-width: 426px) {
+  #home {
+    height: 350px;
+  }
+  #header {
+    height: 65px;
+  }
+  #header .header-logo {
+    font-size: 22px;
+    //margin-left: 40px;
+  }
+  #header .header-nav-item {
+    font-size: 10px;
+    margin: 0 5px;
+    padding-top: 5px;
+  }
+  #home .home {
+    padding-top: 50px;
+  }
+  #home .home-about-content {
+    width: 300px;
+    height: 400px;
+  }
+
+  #home .home-about-content-img {
+    width: 80px;
+    margin-top: -110px;
+    margin-left: 110px;
+  }
+  #home .home-about-content-title {
+    font-size: 15px;
+    margin-left: -85px;
+    margin-top: 90px
+  }
+  #home .home-about-content-desc {
+    font-size: 8px;
+    margin-left: -70px;
+  }
+  #home .home-about-content-desc2 {
+    font-size: 12px;
+    margin-left: -70px;
+    margin-top: -30px;
+  }
+  #home .home-btn {
+    width: 60px;
+    height: 20px;
+    margin-left: 120px;
+    border-radius: 4px;
+    font-size: 7px;
+  }
+  #home .home-about-content-title2 {
+    font-size: 15px;
+    margin-left: 35px;
+  }
+  #home .home-about-content-skills-name {
+    border-radius: 5px;
+    width: 50px;
+    height: 70px;
+  }
+  #home .home-about-content-skills-name-asset {
+    padding-top: 10px;
+    padding-left: 12px;
+  }
+  #home .home-about-content-skills-name-asset-img {
+    width: 25px;
+  }
+  #home .home-about-content-skills-name-asset-desc {
+    font-weight: bolder;
+    font-family: "Ropa Sans", sans-serif;
+    font-size: 5px;
+    margin-top: 2px;
+  }
+
+  #home .home-about-content-title3 {
+    font-size: 15px;
+    margin-left: 70px;
+    margin-top: 90px
+  }
+  #home .home-about-content-desc5 {
+    //font-size: 10px;
+    font-size: 8px;
+    margin-top: 0;
+  }
+  #home .home-about-content-img4 {
+    width: 15px;
+    padding-left: -10px;
+    margin: 0 5px;
+  }
+  #home .home-about-content-img5 {
+    width: 15px;
+    margin: 0 5px;
+  }
+  #home .home-about-content-icons {
+    margin-left: -20px;
+    margin-top: -20px;
+  }
+  #home .home-about-content-desc7 {
+    font-size: 8px;
+    margin-top: 30px;
+    margin-left: 60px;
+  }
+
+  #about {
+    height: 950px;
+  }
+  #about .about-name {
+    width: 375px;
+  }
+  #about .about {
+    flex-direction: column;
+  }
+
+  #about .about-name-img {
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+  }
+  #about .about-name-img-1s {
+    //margin-left: 11px;
+    width: 180px;
+  }
+
+  #about .about-name-title {
+    font-size: 20px;
+    //margin-top: -10px;
+    padding-left: 50px;
+    //margin-top: -50px;
+  }
+  #about .about-name-desc {
+    font-size: 10px;
+    margin-top: -15px;
+    padding-left: 60px;
+  }
+
+  #about .about-post {
+    margin-top: -150px;
+    margin-left: 50px;
+  }
+  #about .about-post-ul1 {
+    font-size: 17px;
+    margin-top: 80px;
+    padding-left: 0;
+  }
+  #about .about-post-li {
+    font-size: 12px;
+  }
+  #about .about-post-ul2 {
+    font-size: 17px;
+    margin-top: 80px;
+    padding-left: 10px;
+  }
+  #about .about-post-li2 {
+    width: 220px;
+    font-size: 12px;
+  }
+  #about .about-post-ul3 {
+    font-size: 17px;
+    margin-left: 0;
+  }
+  #about .about-post-li3 {
+    font-size: 12px;
+    width: 250px;
+  }
+  #about .about-btns {
+    padding-top: 50px;
+  }
+  .skills .skill-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .skills .skill-title {
+    font-size: 10px;
+  }
+
+}
+
+@media (max-width: 391px) {
+  #header .header-nav-item {
+    font-size: 8px;
+    margin: 0 5px;
+  }
+
+  #header .header-logo {
+    font-size: 18px;
+    //margin-left: 20px;
+  }
+
+  #about .about-name {
+    width: 350px;
+  }
+  .skills .skill-icon {
+    width: 38px;
+    height: 38px;
+  }
+
+  .skills .skill-title {
+    font-size: 8px;
+  }
+
+  #home {
+    height: 100%;
+  }
+  #home .home {
+    //padding-top: 150px;
+  }
+}
+
+@media (max-width: 376px) {
+  #header {
+    height: 60px;
+  }
+  #header .header-logo {
+    font-size: 18px;
+  }
+  #header .header-nav-item {
+    font-size: 8px;
+    margin: 0 8px;
+    padding-top: 2px;
+  }
+  #home .home-about-content {
+    width: 275px;
+    height: 400px;
+  }
+
+  #home .home-about-content-img {
+    width: 70px;
+    margin-top: -105px;
+    margin-left: 100px;
+  }
+  #home .home-btn {
+    width: 60px;
+    height: 20px;
+    margin-left: 110px;
+    border-radius: 4px;
+    font-size: 7px;
+  }
+
+  #home .home-about-content-img4 {
+    width: 12px;
+    //padding-left: -8px;
+    margin: 0 5px;
+  }
+  #home .home-about-content-img5 {
+    width: 12px;
+    margin: 0 5px;
+  }
+  #home .home-about-content-icons {
+    margin-left: -20px;
+    margin-top: -20px;
+  }
+  #home .home-about-content-desc7 {
+    font-size: 8px;
+    margin-top: 30px;
+    margin-left: 60px;
+  }
+  #about .about-name {
+    width: 350px;
+  }
+
+  #about .about-name-img {
+    width: 180px;
+    height: 180px;
+    margin-left: 85px;
+  }
+  #about .about-name-img-1s {
+    //margin-left: 11px;
+    width: 160px;
+  }
+
+  #about {
+    height: 820px;
+  }
+
+  #about .about-name-title {
+    font-size: 18px;
+    //margin-top: -10px;
+    padding-left: 40px;
+    //margin-top: -50px;
+  }
+  #about .about-name-desc {
+    font-size: 9px;
+    margin-top: -15px;
+    padding-left: 40px;
+  }
+
+
+  #about .about-post-ul1 {
+    font-size: 15px;
+  }
+  #about .about-post-li {
+    font-size: 10px;
+  }
+
+  #about .about-post-ul2 {
+    font-size: 15px;
+  }
+  #about .about-post-li2 {
+    font-size: 10px;
+  }
+
+  #about .about-post-ul3 {
+    font-size: 15px;
+  }
+  #about .about-post-li3 {
+    font-size: 10px;
+  }
+
+  #about .about-btns-btn {
+    background: white;
+    width: 35px;
+    height: 35px;
+    margin: 0 5px;
+  }
+  #about .about-btns-btn-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: -1px;
+    margin-top: -3px;
+  }
+}
+
+@media (max-width: 360px) {
+  #header .header-nav-item {
+    font-size: 8px;
+    margin: 0 5px;
+  }
+
+  #header .header-logo {
+    font-size: 18px;
+    //margin-left: 20px;
+  }
+
+  #about .about-name {
+    width: 335px;
+  }
+
+  #home .home-about-content {
+    height: 400px;
+  }
+
+  .skills .skill-icon {
+    width: 65px;
+    height: 65px;
+  }
+  .skills .skill-title {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 320px) {
+  #header {
+    height: 50px;
+  }
+  #header .header-logo {
+    font-size: 12px;
+    //padding-left: -30px;
+  }
+  #header .header-nav-item {
+    font-size: 5px;
+    margin: 0 5px;
+    padding-top: 2px;
+  }
+  #home .home-about-content {
+    width: 225px;
+    height: 305px;
+  }
+
+  #home .home-about-content-img {
+    width: 50px;
+    margin-top: -90px;
+    margin-left: 90px;
+  }
+  #home .home-btn {
+    width: 50px;
+    height: 15px;
+    margin-left: 90px;
+    border-radius: 2px;
+    font-size: 6px;
+    margin-top: -100px;
+  }
+  #home .home-about-content {
+    width: 225px;
+    height: 400px;
+  }
+
+  #home .home-about-content-skills-name {
+    border-radius: 3px;
+    width: 40px;
+    height: 60px;
+  }
+  #home .home-about-content-skills-name-asset {
+    padding-top: 5px;
+    padding-left: 7px;
+  }
+  #home .home-about-content-skills-name-asset-img {
+    width: 22px;
+  }
+  #home .home-about-content-skills-name-asset-desc {
+    font-size: 4px;
+    margin-top: 5px;
+  }
+  #home .home-about-content-title2 {
+    font-size: 13px;
+    margin-left: 35px;
+  }
+  #home .home-about-content-title3 {
+    font-size: 13px;
+    margin-left: 35px;
+  }
+
+  #home .home-about-content-img4 {
+    width: 8px;
+    //padding-left: -8px;
+    margin: 0 2px;
+  }
+  #home .home-about-content-img5 {
+    width: 8px;
+    margin: 0 2px;
+  }
+  #home .home-about-content-icons {
+    margin-left: -15px;
+    margin-top: -15px;
+  }
+  #home .home-about-content-desc7 {
+    font-size: 5px;
+    margin-top: 20px;
+    margin-left: 60px;
+  }
+  #about .about-name {
+    width: 300px;
+  }
+
+  #about .about-name-img {
+    width: 140px;
+    height: 140px;
+    margin-left: 75px;
+  }
+  #about .about-name-img-1s {
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 130px;
+  }
+
+  #about {
+    height: 680px;
+  }
+
+  #about .about-name-title {
+    font-size: 15px;
+    //margin-top: -10px;
+    padding-left: 25px;
+    //margin-top: -50px;
+  }
+  #about .about-name-desc {
+    font-size: 7px;
+    //margin-top: -15px;
+    padding-left: 25px;
+  }
+  #about .about-post {
+    margin-top: -220px;
+  }
+
+  #about .about-post-ul1 {
+    font-size: 13px;
+  }
+  #about .about-post-li {
+    font-size: 8px;
+  }
+  #about .about-post-ul2 {
+    font-size: 13px;
+  }
+  #about .about-post-li2 {
+    font-size: 8px;
+  }
+  #about .about-post-ul3 {
+    font-size: 13px;
+  }
+  #about .about-post-li3 {
+    font-size: 8px;
+  }
+
+
+  #about .about-btns-btn {
+    background: white;
+    width: 35px;
+    height: 35px;
+    margin: 0 5px;
+  }
+  #about .about-btns-btn-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: -1px;
+    margin-top: -3px;
+  }
+
+  .skills .skill-icon {
+    width: 35px;
+    height: 35px;
+  }
+
+  .skills .skill-title {
+    font-size: 6px;
+  }
+}
