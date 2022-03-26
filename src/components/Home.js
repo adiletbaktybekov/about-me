@@ -9,15 +9,13 @@ import BootIcon from "../assets/img/68747470733a2f2f76352e676574626f6f7473747261
 import ResponsiveIcon from "../assets/img/iconfinder-icon-9-cover-icon-original.webp"
 import ReduxIcon from "../assets/img/redux-283024.webp"
 import SassIcon from "../assets/img/1200px-Sass_Logo_Color.svg.png"
-// import {FaGithub, FaInstagram, FaLinkedin, FaTelegram} from "react-icons/fa";
-
 
 const Home = () => {
     return (
         <section id="home" style={{background: "src"}}>
             <div className="container">
                 <div className="home">
-                    <Carousel>
+                    <Carousel variant="dark">
                         <Carousel.Item interval={1000}>
                         <div className="home-about d-flex justify-content-center">
                             <div className="home-about-content">

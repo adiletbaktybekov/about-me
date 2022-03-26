@@ -2,11 +2,13 @@
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Source+Code+Pro:wght@300&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Ropa+Sans&family=Source+Code+Pro:wght@300&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@0,500;1,400;1,500&family=Ropa+Sans:ital@1&family=Source+Code+Pro:wght@300&display=swap');
-  background: url("../../../assets/img/image 1.png") no-repeat center/cover;
+  background: url("../../../assets/img/White_Background_generated.jpg") no-repeat center/cover;
   width: 100%;
-  height: 100%;
+  height: 750px;
+
   .home {
     padding-top: 100px;
+
     &-about {
       &-content {
         width: 1050px;
@@ -145,7 +147,6 @@
       width: 150px;
       height: 50px;
       margin-left: 450px;
-      //margin-top: 50px;
       background: white;
 
       color: black;

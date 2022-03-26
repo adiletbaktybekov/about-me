@@ -5,7 +5,9 @@ import "./components/styles/styles.scss"
 import Home from "./components/Home";
 import {Routes, Route} from "react-router-dom"
 import Skills from "./components/Skills";
-import Contacts from "./components/Contacts";
+import Footer from "./components/Footer";
+// import Contacts from "./components/Contacts";
+// import Footer from "./components/Footer";
 // import * as React from 'react'
 // import {IntlProvider, FormattedMessage, FormattedNumber} from 'react-intl'
 //
@@ -34,6 +36,7 @@ function App() {
                 <Route path="/skills" element={<Skills/>}/>
                 {/*<Route path="/contacts" element={<Contacts/>}/>*/}
             </Routes>
+            {/*<Footer/>*/}
             {/*</IntlProvider>*/}
         </div>
     );

@@ -1,0 +1,71 @@
+#footer {
+  a {
+    text-decoration: none;
+  }
+
+  height: 300px;
+
+  .footer {
+    &-contacts {
+      width: 500px;
+      margin-top: 40px;
+
+      &-logo {
+        font-family: 'Gluten', cursive;
+        font-style: italic;
+        font-size: 34px;
+        color: #000;
+        font-weight: bolder;
+      }
+
+      &-title {
+        font-size: 30px;
+        color: #000;
+        font-weight: bolder;
+      }
+
+      &-icons {
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+
+        &-cont {
+          display: flex;
+          flex-direction: row;
+
+          &-title {
+            font-size: 15px;
+
+            font-weight: normal;
+          }
+
+          &-icon {
+            width: 40px;
+            height: 40px;
+          }
+        }
+      }
+
+      &-links {
+        margin-left: 30px;
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+
+        &-link {
+          color: #000;
+          font-size: 22px;
+          margin-top: 15px;
+          font-weight: normal;
+        }
+      }
+    }
+
+    &-about {
+      font-size: 15px;
+      font-weight: normal;
+      margin-left: 1000px;
+      margin-top: 110px;
+    }
+  }
+}
